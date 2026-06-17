@@ -12,7 +12,7 @@
 
 專案採用結構化的目錄管理，以便於區分開發的不同階段：
 
-* **/models**：[點此前往雲端硬碟下載模型權重](https://drive.google.com/drive/folders/1V2Pnr5eo2ZFdNB2wP4Y2wwvMm129cT8Q?usp=sharing) 。內含 5 個已訓練完成的模型權重檔（包含自建 CNN、MiniVGGNet 與 MediaPipe）。
+* **/model**：[點此前往雲端硬碟下載模型權重](https://drive.google.com/drive/folders/1V2Pnr5eo2ZFdNB2wP4Y2wwvMm129cT8Q?usp=sharing) 。內含 5 個已訓練完成的模型權重檔（包含自建 CNN、MiniVGGNet 與 MediaPipe）。
 
 * **/train**（工作流程：Canny 預處理於**本機**執行；模型訓練於 **Google Colab** 執行）
 
